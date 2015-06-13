@@ -40,4 +40,4 @@ group :development, :test do
   gem 'web-console', '~> 2.0'
 end
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
-
+gem "font-awesome-rails"
